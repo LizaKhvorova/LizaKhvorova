@@ -2,6 +2,9 @@
   <a href="https://www.linkedin.com/mwlite/in/liza-khvorova-7333a0262">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://hh.ru/resume/3932c153ff0bd473100039ed1f617578313247">
+    <img src="https://img.shields.io/badge/hh-red" alt="hh Badge"/>
+  </a>
 </div>
 
 <!--
